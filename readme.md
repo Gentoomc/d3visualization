@@ -16,6 +16,8 @@ Due to changing sample size as a result of missing data, it was confusing to rea
   - Color: Income Group (nomical data)
   - Animation: Time (Year) 
 
+  I chose a bubble chart because I wanted to show the relationship between homicide and literacy rate for each country, and also used color to represent a third variable, an income group that each country belongs to. This wouldn't have been possible for a bar plot, which would have forced me to use a summary statistic such as a mean or a median. I chose to use bubble colors to represent income group, instead of region that each country belongs to, because there seemed to be more similarities of literacy and homicide combinations between countries in a given income group than in a region. I also chose year to animate to see a trend over time. 
+
 #####Changes made (final design):
 
 - Chart type: Bubble chart 
@@ -23,6 +25,8 @@ Due to changing sample size as a result of missing data, it was confusing to rea
   - Position x: Intentional homicides (per 100,000 people)
   - Position y: Literacy rate, adult total (% of people ages 15 and above)
   - Color: Income Group (nomical data)
+
+  Based on the feedbacks received, I dropped year-based animation since there was no clear trend over time due to missing data. 
 
 ####Feedback:
 
